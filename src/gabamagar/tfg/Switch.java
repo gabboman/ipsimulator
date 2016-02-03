@@ -1,6 +1,5 @@
 package gabamagar.tfg;
 
-import gabamagar.util.Interfaz;
 
 import java.util.List;
 
